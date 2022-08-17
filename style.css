@@ -48,6 +48,20 @@
     color:#F1F8FD
 }
 
+
+.name {    
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.profession {    
+    font-size: 22px;
+    font-style: italic;
+
+
+}
+
 .exp-company-name,
 .education-school-name,
 .awards-company-name {
