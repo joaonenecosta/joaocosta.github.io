@@ -1,2 +1,2 @@
 # joaocosta.github.io
-Curriculum vitæ
+ Trajetória educacional e as experiências profissionais.
