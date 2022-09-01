@@ -1,6 +1,4 @@
-# joaocosta.github.io
- Trajetória educacional e as experiências profissionais.
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,10 +9,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400;1,700&display=swap" rel="stylesheet">
-
     <!-- font-awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -78,7 +74,6 @@
                             conciliar as três vertentes (gestão, pessoas e tecnologia) no contexto da PLASbritos
                             (empresa industrial).
                             Todos os dias me sinto motivado a explorar e descobrir mais.<br>
-
                         </p>
                     </section>
                 </div>
@@ -208,7 +203,6 @@
                         <p class="exp-position">Operador de caixa</p>
                         <p class="exp-desc">
                             Registo e recebimento de vendas. Fecho de caixa.
-
                         </p>
                     <br></div>
                     <div class="exp-left">
@@ -233,14 +227,11 @@
                         <p class="education-subject">Finanças</p>
                         <p class="educationp-time-period">
                             Licenciatura em Finanças
-                        </p>
-                        
+                        </p>  
                     </div>
                 </div>
-
             </section>
         </section>
     </main>
 </body>
-
 </html>
