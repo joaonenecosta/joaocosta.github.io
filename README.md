@@ -67,7 +67,8 @@
                             crescer profissionalmente. Aprender Finanças e conhecer a Gestão, permite-me estar
                             integrado em projetos muito enriquecedores. Neste momento tenho o objetivo de
                             aumentar as minhas competências nas áreas da matemática e tecnologia. Atualmente
-                            tenho um emprego com muita liberdade criativa na área da Gestão Industrial. No presente ano, no mês de Março, iniciei o meu estágio profissional, na PLASbritos.
+                            tenho um emprego com muita liberdade criativa na área da Gestão Industrial. No presente ano, no mês de Março, iniciei o meu estágio 
+                            profissional, na PLASbritos.
                             Atualmente, encontro-me a frequentar o mesmo e o meu trabalho centra-se na resolução
                             de diversos problemas, onde a palavra-chave é a gestão, e o objetivo principal é ligar a
                             empresa às pessoas. No meu dia-a-dia a tecnologia é primordial e o meu principal foco é
